@@ -57,19 +57,19 @@ Master branches for independent, safe development.
 - Merge feature work safely
 - Visualize branch history
 
-### [Lab 3: Merge Conflicts](Labs/Lab-3-Merge-Conflicts.md)
-Learn to handle conflicts that arise when multiple developers edit the same code.
-- Understand how merge conflicts occur
-- Read Git conflict markers
-- Resolve conflicts manually
-- Complete merges successfully
-
-### [Lab 4: GitHub Collaboration Workflow](Labs/Lab-4-GitHub-Collaboration.md)
+### [Lab 3: GitHub Collaboration Workflow](Labs/Lab-3-GitHub-Collaboration.md)
 Work with remote repositories and implement team collaboration.
 - Create and connect GitHub repositories
 - Push code to the cloud
 - Create Pull Requests
 - Review and merge teammate changes
+
+### [Lab 4: Merge Conflicts](Labs/Lab-4-Merge-Conflicts.md)
+Learn to handle conflicts that arise when multiple developers edit the same code.
+- Understand how merge conflicts occur
+- Read Git conflict markers
+- Resolve conflicts manually
+- Complete merges successfully
 
 ### [Lab 5: Rebasing and Clean History](Labs/Lab-5-Rebasing-Clean-History.md)
 Maintain a clean, linear commit history.

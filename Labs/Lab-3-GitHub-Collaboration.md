@@ -1,4 +1,4 @@
-# Lab 4 — GitHub Collaboration Workflow
+# Lab 3 — GitHub Collaboration Workflow
 
 ## 🎯 Learning Objectives
 

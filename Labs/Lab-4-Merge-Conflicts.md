@@ -1,4 +1,4 @@
-# Lab 3 — Merge Conflicts
+# Lab 4 — Merge Conflicts
 
 ## 🎯 Learning Objectives
 

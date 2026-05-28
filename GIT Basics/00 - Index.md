@@ -221,11 +221,13 @@
 4. [09 - Quick Reference](09%20-%20Quick%20Reference.md)
 
 **Intermediate (Building Skills):**
+
 5. [04 - Practical Scenarios & Solutions](04%20-%20Practical%20Scenarios.md)
 6. [05 - Best Practices](05%20-%20Best%20Practices.md)
 7. [07 - Tools & Environment](07%20-%20Tools%20&%20Environment.md)
 
 **Advanced (Mastery):**
+
 8. [06 - Understanding Git Internals](06%20-%20Git%20Internals.md)
 9. [08 - Common Pitfalls](08%20-%20Common%20Pitfalls.md)
 10. [Appendices](A1%20-%20Git%20Terminology.md)
