@@ -7,10 +7,9 @@ A hands-on workshop designed to teach developers the fundamentals of version con
 ## 📋 Workshop Overview
 
 This workshop introduces participants to Git and GitHub through a combination of theory and practical hands-on labs. Participants will gain confidence using Git locally, collaborating with teams, managing branches, resolving conflicts, and recovering from common mistakes.
-
-**Duration:** Full-day workshop  
+ 
 **Format:** Instructor-led with hands-on labs  
-**Audience:** Developers new to Git or wanting to strengthen their Git skills
+**Audience:** People new to Git or wanting to strengthen their Git skills
 
 ---
 
