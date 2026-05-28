@@ -1,4 +1,4 @@
-# Git + GitHub Workshop — Instructor Notes
+# Git Workshop — Instructor Notes
 
 ## Workshop Goals
 
